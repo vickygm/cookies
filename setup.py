@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='cookies',
-      version='0.1',
+      version='0.2',
       description='Cool person or not',
       url='https://github.com/vickygm/cookies',
       author='Moana',
@@ -9,3 +9,4 @@ setup(name='cookies',
       license='MIT',
       packages=['cookies'],
       zip_safe=False)
+
