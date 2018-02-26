@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='cookies',
-      version='0.4',
+      version='0.5',
       description='Cool person or not',
       url='https://github.com/vickygm/cookies',
       author='Moana',
